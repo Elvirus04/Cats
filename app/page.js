@@ -9,7 +9,7 @@ export default function Home() {
   const [isMarcelino, setIsMarcelino] = useState(false);
 
   function counter1() {
-    setChiffre(chiffre + 10);
+    setChiffre(chiffre + 11);
   }
 
   function counter2() {
